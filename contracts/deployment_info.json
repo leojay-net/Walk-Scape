@@ -1,0 +1,8 @@
+{
+  "contractAddress": "0xba9d85b720966B41d05310f235576891C85221D0",
+  "network": "Morph Holesky Testnet",
+  "rpcUrl": "https://rpc-holesky.morphl2.io",
+  "chainId": 2810,
+  "deployedAt": "2025-08-13T00:13:38Z",
+  "adminAddress": ""
+}
